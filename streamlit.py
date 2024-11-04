@@ -4,8 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNo7Yrzy4wTCF4mHEt6l9Kc",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyNo7Yrzy4wTCF4mHEt6l9Kc"
     },
     "kernelspec": {
       "name": "python3",
@@ -16,16 +15,6 @@
     }
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/Khyatidaksha15/Filtering/blob/main/streamlit.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "source": [
